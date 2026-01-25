@@ -9,37 +9,37 @@ gotohttp
 splashtop
 ammyy
 idrive
-remote utilities
 glavsoft
-zoho assist
-beyondtrust remote support
-isl online
-chrome remote desktop
+zoho
+beyondtrust
+isl
+remoting_host.exe
 nomachine
 parsec
 dameware
-manageengine remote access plus
+manageengine
 helpwire
 remotepc
 rustdesk
 vnc connect
+vnc
 tightvnc
 tigervnc
 ultravnc
 freerdp
 remmina
 apache guacamole
+guacamole
 x2go
 mremoteng
 dwService
 aeroadmin
 litemanager
 supremo
-logmein rescue
-logmein pro
+logmein
 join.me
 getscreens
-remotepc by idrive
+remotepc
 ispower
 showmypc
 mikogo
@@ -52,9 +52,7 @@ moonlight
 sunshine
 hopto
 noip remote access
-teamviewer tensor
 anyviewer
-rustdesk self-hosted
 meshlab
 rustdesk
 freerdp
@@ -62,32 +60,29 @@ xrdp
 vinagre
 krfb
 remmina
-gnome connections
 royal ts
 mstsc
-parallels access
-jump desktop
-asg remote desktop
+parallels
+jump
+asg
 bomgar
 rescueassist
-connectwise control
+connectwis
 atera remote
 ninjarmm
 syncro
 autotask
-kaseya vsa
+kaseya
 solarwinds dameware
 level.io
 addigy
-jamf remote
-intune remote help
-azure virtual desktop
+jamf
 citrix workspace
 vmware horizon
-thinfinity remote desktop
+thinfinity
 tsplus
-fabula tech remote
-elitehsoft remote net
+fabula
+elitehsoft
 host tool
 remoteview
 rsupport
@@ -97,8 +92,112 @@ airbeam
 scrcpy
 airmore
 apowermirror
-teamviewer quicksupport
-anydesk portable
-rustdesk portable
+rustdesk
 dwagent
 rustdesk
+TeamViewer.exe
+TeamViewer_Service.exe
+AnyDesk.exe
+GoToMyPC.exe
+g2svc.exe
+ScreenConnect.Client.exe
+ConnectWiseControl.Client.exe
+SimpleHelp.exe
+SimpleHelpServer.exe
+client32.exe
+AteraAgent.exe
+GotoHTTP.exe
+Splashtop_Streamer.exe
+Splashtop Business.exe
+AA_vX.exe
+RemotePC.exe
+TurboVNC.exe
+ZohoAssist.exe
+BomgarRepresentativeConsole.exe
+representative.exe
+ISL Light Client.exe
+isllight.exe
+remoting_host.exe
+nxplayer.exe
+nxserver.exe
+parsecd.exe
+Parsec.exe
+DWRCC.exe
+DesktopCentral_Agent.exe
+ManageEngine_RemoteAccessPlus.exe
+HelpWire.exe
+RemotePC.exe
+rustdesk.exe
+VNCViewer.exe
+vncserver.exe
+VNCViewer.exe
+tvnviewer.exe
+tvnserver.exe
+vncviewer.exe
+vncviewer.exe
+wfreerdp.exe
+xfreerdp.exe
+remmina.exe
+guacamole.war
+guacamole
+x2goclient.exe
+mRemoteNG.exe
+dwagent.exe
+AeroAdmin.exe
+LMNoIp.exe
+LiteManager Pro.exe
+Supremo.exe
+LogMeIn.exe
+LMIGuardianSvc.exe
+join.me.exe
+getscreens.exe
+RemotePC.exe
+ShowMyPC.exe
+Mikogo.exe
+CrossLoop.exe
+E2ESoft_VNC.exe
+VNCViewer.exe
+VNCServer.exe
+thinlinc-client.exe
+remote-viewer.exe
+moonlight.exe
+sunshine.exe
+NoIPDUC.exe
+AnyViewer.exe
+meshagent.exe
+MeshCentral.exe
+rustdesk.exe
+wfreerdp.exe
+xrdp.exe
+vinagre.exe
+krfb.exe
+remmina.exe
+RoyalTS.exe
+mstsc.exe
+ParallelsClient.exe
+JumpDesktop.exe
+ASG-Remote Desktop.exe
+representative-console.exe
+rescueassist.exe
+ScreenConnect.Client.exe
+AteraAgent.exe
+NinjaRMM.exe
+Syncro.exe
+KaseyaAgent.exe
+DWRCC.exe
+Level.io Agent.exe
+CitrixWorkspaceApp.exe
+SelfServicePlugin.exe
+HorizonClient.exe
+Thinfinity Remote Desktop.exe
+TSPlus.exe
+FabulaTech Remote Desktop.exe
+RemoteNet.exe
+host-tools.exe
+RemoteView.exe
+RemoteView.exe
+Beamy.exe
+scrcpy.exe
+ApowerMirror.exe
+dwagent.exe
+rustdesk.exe
